@@ -14,6 +14,7 @@ function App() {
           <Navbar.Toggle />
         </Navbar.Header>
       </Navbar>
+      <Routes />
     </div>
   );
 }
